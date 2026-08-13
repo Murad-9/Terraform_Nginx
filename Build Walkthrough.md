@@ -85,7 +85,7 @@ Terraform is responsible for creating the infrastructure, while cloud-init handl
 The result is a repeatable deployment where a new EC2 instance can be created and configured automatically rather than manually setting up every server.
 
 
-# Troubleshooting
+# Troubleshooting
 
 During the deployment, I initially had an issue where the EC2 instance was created successfully, but the web server was not accessible.
 
