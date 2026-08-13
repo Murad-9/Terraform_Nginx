@@ -1,4 +1,4 @@
-## Assignment 2 – EC2 Deployment with Cloud-Init
+# Assignment 2 – EC2 Deployment with Cloud-Init
 
 This project demonstrates how Terraform and cloud-init can be used together to automatically deploy and configure an AWS EC2 instance.
 
